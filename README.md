@@ -1,6 +1,11 @@
-# first_app
+# List View
 
 A new Flutter project.
+
+<img src="/Snapshots/Capture+_2020-12-24-16-33-54.png">
+<br>
+<img src="/Snapshots/Capture+_2020-12-24-16-34-14.png">
+<br>
 
 ## Getting Started
 
